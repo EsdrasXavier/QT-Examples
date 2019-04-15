@@ -67,6 +67,7 @@ void Dialog::on_pushButton_4_clicked() {
   this->scene->clear();
   this->lines.clear();
   this->circles.clear();
+  this->squares.clear();
 }
 
 void Dialog::updateRGBLabels() {
